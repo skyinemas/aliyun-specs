@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.dependency  'TBRest',  '~> 10.1.1'
   s.dependency  'AliHASecurity',  '~> 10.0.4'
   s.dependency  'TRemoteDebugger',  '~> 10.0.4'
-  s.dependency  'RemoteDebugChannel',  '~> 10.0.4'
+  s.dependency  'RemoteDebugChannel',  '10.0.4.5-ssziparchive'
   s.dependency  'AlicloudUtils'
   s.dependency  'AlicloudHAUtil'
 end
