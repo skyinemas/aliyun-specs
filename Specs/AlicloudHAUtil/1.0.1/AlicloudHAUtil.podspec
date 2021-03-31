@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.libraries = 'z'
   s.frameworks = 'SystemConfiguration', 'CoreTelephony'
   s.dependency 'TBRest'
-  s.dependency 'ZipArchive'
+  s.dependency 'SSZipArchive'
   s.dependency 'AliHACore'
 end
