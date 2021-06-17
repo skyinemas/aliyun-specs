@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
   s.dependency  'RemoteDebugChannel',  '~> 10.0.4'
   s.dependency  'AlicloudUtils'
   s.dependency  'AlicloudHAUtil'
+  s.dependency  'AlicloudSettingService'
 end
